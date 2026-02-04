@@ -1,7 +1,0 @@
-{
-  "name": "SmartMoney AI - Trading Assistant",
-  "description": "An advanced AI-powered trading assistant specializing in Smart Money Concepts (SMC) for Gold, Silver, Bitcoin, and Forex. Features automated chart analysis, real-time news grounding, and risk management tools.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
